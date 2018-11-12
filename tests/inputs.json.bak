@@ -1,0 +1,7 @@
+{
+  "wig2coverage.interval_list": "gs://fc-23168386-6905-4bde-ba56-547144b58c5f/xchip/cga/reference/capseg/targets/hg19/whole_exome_agilent_1.1_refseq_plus_3_boosters.Homo_sapiens_assembly19.targets.bed",
+  "wig2coverage.wig_coverage_file": "gs://fc-23168386-6905-4bde-ba56-547144b58c5f/fh/subscription-shipp_lab/CallSomaticMutations/c_cHL_10/33060325/iteration1/c_cHL_10.coverage.wig.txt.gz",
+  "wig2coverage.wig2coverage_task_1.local_disk_gb": "Int? (optional)",
+  "wig2coverage.wig2coverage_task_1.num_preemptions": "Int? (optional)",
+  "wig2coverage.wig2coverage_task_1.ram_gb": "Float? (optional)"
+}

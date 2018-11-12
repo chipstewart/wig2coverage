@@ -1,0 +1,5 @@
+
+**/latest
+**/cromwell-workflow-logs
+*.pyc
+**/cromwell-executions
